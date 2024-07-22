@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Change README
+
 ## 0.1.1
 
 - Add json with all banks (updated until Jul 13, 2024)
